@@ -1,4 +1,4 @@
 
 
-https://github.com/jaiacharya2004/Pomodoro-Timer/assets/155559876/bf4e92f8-43ec-424c-9a43-cd3cf3485316
+https://github.com/jaiacharya2004/Pomodoro-Timer/assets/155559876/190d3c4a-89cb-467c-8f07-714e8c0e0dcc
 
