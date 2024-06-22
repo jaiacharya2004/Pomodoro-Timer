@@ -49,6 +49,10 @@ class TimerViewModel : ViewModel() {
         onTickListener?.invoke(currentSeconds.value)
     }
 
+    fun setTimerDuration(seconds: Int) {
+        currentSeconds.value = seconds
+    }
+
     override fun onCleared() {
         super.onCleared()
         coroutineScope.coroutineContext.cancelChildren()
